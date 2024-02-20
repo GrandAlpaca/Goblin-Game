@@ -21,15 +21,9 @@ To compile the game:
 
 javac GoblinGame.java
 
-arduino
-Copy code
-
 To run the game:
 
 java GoblinGame
-
-csharp
-Copy code
 
 ## Contributors
 
